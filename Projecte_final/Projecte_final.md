@@ -22,6 +22,7 @@ Diagrama amb el microcontrolador ESP32 i els diferents perifèrics:
 ![diagramabloques](diagramabloques.png)
 ___
 ## MUNTATGE
+Primerament es va fer un esquema del sistema amb el programa "fritzing".
 
 ![esquemamontage](esquemamontage.PNG)
 
